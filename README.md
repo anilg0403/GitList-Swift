@@ -6,4 +6,6 @@ Contributores Info, Size, Watcher Count, Fork count and many more information wh
 
 Here's what it looks like:
 
-![Output sample](https://github.com/anilg0403/GitList-Swift/blob/master/GithubApp/Resource/GitListAppDemo.gif)
+![Output sample](https://github.com/anilg0403/GitList-Swift/blob/main/GitListAppDemo.gif)
+
+
