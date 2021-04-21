@@ -1,6 +1,8 @@
 # GitList-Swift
 Fetch Github Repository Details
 
+Architecture : VIPER
+
 GitList project is created using github public api where you can get details of public repository details which includes
 Contributores Info, Size, Watcher Count, Fork count and many more information which is accessible.
 
